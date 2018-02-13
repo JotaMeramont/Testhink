@@ -1,2 +1,4 @@
 este es un archivo de prueba
-esta es la segunda linea
+
+esta es la tercera linea
+y esta la cuarta
